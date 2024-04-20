@@ -22,3 +22,4 @@ body: Thẻ đánh dấu phần thân website
 + git commit -m "Your commment": Thêm comment cho sự thay đổi vào kho local 
 + git remote add origin your_url: Thêm liên kết giữa kho local và kho server (github) 
 + git push origin branch_name: Đẩy code từ kho local lên kho server 
+Ctrl+ L: xóa lịch sử? 
